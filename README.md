@@ -1,6 +1,13 @@
-# Data Science 2023
+# Towards Language Model-based Identification of Business Clusters
 
-Repository for the Data Science mini-project.
+Repository for the Data Science 2023 course project. 
+
+One of the most important decisions every business has to decide on is a physical location. Identifying the right location is crucial for effective marketing strategies to reach the intended customer base. It can also reduce transportation costs, and locating in a vibrant regional business cluster can significantly positively affect business development.
+However, strategically acquiring \& analyzing data on regional economies, the affiliated companies, and their target market segments is very complex and labor-intensive. 
+	
+We propose to circumvent these challenges by leveraging state-of-the-art language models to transform publicly available company websites into machine-readable data points and applying clustering to make location recommendations for novel companies.
+	
+A qualitative evaluation of our methods being applied to data from the German municipality Saarland demonstrates that our methods can accurately cluster related companies and categorize novel companies into existing clusters.
 
 ## Executing the Dashboard
 
