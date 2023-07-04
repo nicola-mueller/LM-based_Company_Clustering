@@ -18,6 +18,7 @@ def displayPDF(file):
 
     # Displaying File
     st.markdown(pdf_display, unsafe_allow_html=True)
+  
 
-
-displayPDF(os.path.join(paths.ROOT, "paper", "report.pdf"))
+st.markdown("# WIP Research Paper")
+displayPDF(os.path.join(paths.ROOT, "paper", "paper.pdf"))

@@ -97,5 +97,3 @@ with plot_area:
                 st.plotly_chart(new_fig, use_container_width=True)
                 st.warning("Some companies might be missing on this map!")
         st.plotly_chart(fig_3d, use_container_width=True)
-
-
